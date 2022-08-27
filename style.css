@@ -1,0 +1,49 @@
+
+h1{
+    color: blue;
+    background-color: aquamarine;
+    height: 100px;
+    width: 50%;
+}
+#desh{
+    font-size: 50px;
+    color: crimson;
+    text-align: center;
+}
+.head{
+    column-gap: 20px;
+    color: chartreuse;
+    background-color: blueviolet;
+}
+ol{
+    font-size: 20px;
+    columns: 50px;
+   
+}
+li.apple{
+    color: blue;
+}
+
+.love{
+    font-size: 20px;
+    color: coral;
+}
+div{
+    border: 10px solid green;
+    border-color: blue;
+    border-radius: 5px;
+    margin-right: 1000px;
+    margin-left: 50px;
+    float: left;
+}
+h3{
+    text-align: center;
+}
+.link{
+    margin-top: 10px;
+    margin-right: 1100px;
+    background-color: rgb(147, 243, 235);
+    padding: 10px;
+}
+
+</style>
